@@ -1,4 +1,4 @@
-module github.com/nuccdc/Coldfire.git
+module github.com/nuccdc/Coldfire
 
 go 1.15
 
