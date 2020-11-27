@@ -11,5 +11,4 @@ require (
 	github.com/minio/minio v0.0.0-20201127213602-350c5ff8f81f
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/robfig/cron v1.2.0
-	golang.org/x/crypto v0.0.0-20201124201722-c8d3bf9c5392
 )
